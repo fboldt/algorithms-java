@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public abstract class Client {
+public abstract class UnionFindClient {
     protected abstract UnionFind algorithm(int n);
 
     public void exec() {

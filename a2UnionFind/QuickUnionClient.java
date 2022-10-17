@@ -1,4 +1,4 @@
-public class QuickUnionClient extends Client {
+public class QuickUnionClient extends UnionFindClient {
     public static void main(String[] args) {
         QuickUnionClient client = new QuickUnionClient();
         client.exec();

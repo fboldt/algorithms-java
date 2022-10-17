@@ -1,4 +1,4 @@
-public class QuickFindClient extends Client{
+public class QuickFindClient extends UnionFindClient{
 
     public static void main(String[] args) {
         QuickFindClient client = new QuickFindClient();

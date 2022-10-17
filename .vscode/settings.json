@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        ".lift/algs4.jar"
+        ".lift/algs4.jar",
+        "/mnt/c/Users/fbold/projects/junit/junit-platform-console-standalone-1.9.1.jar"
     ]
 }
